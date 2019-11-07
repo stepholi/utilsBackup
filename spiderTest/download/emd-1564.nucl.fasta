@@ -1,0 +1,12 @@
+>gnl|EMDB+PDB|1564.4 ref_db_acc:3EQ4 strand_id:Y description:tRNA
+CGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAGAUCUGGACCUGUGUUCGAUCCACAGAAUUCGCACCCUCCCGUAGGGGUU
+>gnl|EMDB+PDB|1564.5 ref_db_acc:3EQ4 strand_id:A description:Fragment h18 of the 16S rRNA
+CGCGGUAAU
+>gnl|EMDB+PDB|1564.6 ref_db_acc:3EQ4 strand_id:C description:Fragment h44 of the 16S rRNA
+GGGCGAAGUCG
+>gnl|EMDB+PDB|1564.7 ref_db_acc:3EQ4 strand_id:B description:Fragment H43-44 of the 23S rRNA
+AGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAAAGCGUAAUAGCU
+>gnl|EMDB+PDB|1564.8 ref_db_acc:3EQ4 strand_id:D description:Fragment H95 of the 23S rRNA
+UGCUCCUAGUACGAGAGGACCGGAGUGG
+>gnl|EMDB+PDB|1564.9 ref_db_acc:3EQ4 strand_id:E description:Fragment H69 of the 23S rRNA
+GCCGUAACUAUAACGGU

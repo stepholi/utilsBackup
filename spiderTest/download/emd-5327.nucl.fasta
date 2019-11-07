@@ -1,0 +1,40 @@
+>gnl|EMDB+PDB|5327.1 ref_db_acc:3J0O strand_id:A description:40S ribosomal RNA fragment
+GGAGGGCAAGUCAUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUA
+>gnl|EMDB+PDB|5327.2 ref_db_acc:3J0O strand_id:B description:40S ribosomal RNA fragment
+GAGGUGAAAUUC
+>gnl|EMDB+PDB|5327.3 ref_db_acc:3J0O strand_id:C description:40S ribosomal RNA fragment
+GACGAUCAGAUACCGUC
+>gnl|EMDB+PDB|5327.4 ref_db_acc:3J0O strand_id:D description:40S ribosomal RNA fragment
+CGAGGAA
+>gnl|EMDB+PDB|5327.5 ref_db_acc:3J0O strand_id:E description:40S ribosomal RNA fragment
+ACCA
+>gnl|EMDB+PDB|5327.6 ref_db_acc:3J0O strand_id:E description:40S ribosomal RNA fragment
+UCCCU
+>gnl|EMDB+PDB|5327.7 ref_db_acc:3J0O strand_id:F description:40S ribosomal RNA fragment
+GGUGGUGGUGCAUGGCCGUUC
+>gnl|EMDB+PDB|5327.8 ref_db_acc:3J0O strand_id:G description:40S ribosomal RNA fragment
+GAACCUGCGGCUUAAUUUGACUCAACACGGG
+>gnl|EMDB+PDB|5327.9 ref_db_acc:3J0O strand_id:G description:40S ribosomal RNA fragment
+GCACGCGCGUUAC
+>gnl|EMDB+PDB|5327.10 ref_db_acc:3J0O strand_id:H description:40S ribosomal RNA fragment
+CACCGCCCGUCGCUUGUAGUAACGAAUGGUCUGGUGAACCUUCUGGACUGCGACAGCAAUGUUGCGGAAAAAUAAGUAAACCCUACCAUUUGGAACAACAAGAAGUCGUAA
+>gnl|EMDB+PDB|5327.16 ref_db_acc:3J0O strand_id:2 description:60S ribosomal RNA fragment
+GCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAACCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACG
+>gnl|EMDB+PDB|5327.17 ref_db_acc:3J0O strand_id:3 description:60S ribosomal RNA fragment
+GCCAGUGAAAUA
+>gnl|EMDB+PDB|5327.18 ref_db_acc:3J0O strand_id:4 description:60S ribosomal RNA fragment
+GGCUGGGGCGGCAC
+>gnl|EMDB+PDB|5327.19 ref_db_acc:3J0O strand_id:5 description:60S ribosomal RNA fragment
+CCUAAG
+>gnl|EMDB+PDB|5327.20 ref_db_acc:3J0O strand_id:6 description:60S ribosomal RNA fragment
+AGAACAAAAGGGUAAAAGC
+>gnl|EMDB+PDB|5327.21 ref_db_acc:3J0O strand_id:7 description:60S ribosomal RNA fragment
+GCUUGUGGCAGUCAAGCGUUCAUAGCGACAUUGCUUUUUGAUUCUUCGAU
+>gnl|EMDB+PDB|5327.22 ref_db_acc:3J0O strand_id:8 description:60S ribosomal RNA fragment
+GACCGUCGUGAGACAGGUUA
+>gnl|EMDB+PDB|5327.25 ref_db_acc:3J0O strand_id:Y,V,W description:tRNA
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACCA
+>gnl|EMDB+PDB|5327.26 ref_db_acc:3J0O strand_id:Y,V description:mRNA fragment
+UUC
+>gnl|EMDB+PDB|5327.27 ref_db_acc:3J0O strand_id:W description:mRNA fragment
+AA

@@ -1,0 +1,28 @@
+>gnl|EMDB+PDB|5328.1 ref_db_acc:3J0P strand_id:A description:40S ribosomal RNA fragment
+GGAGGGCAAGUCAUGGUGCCAGCAGCCGCGGUAAUUCCAGCUCCAAUA
+>gnl|EMDB+PDB|5328.2 ref_db_acc:3J0P strand_id:C description:40S ribosomal RNA fragment
+GACGAUCAGAUACCGUC
+>gnl|EMDB+PDB|5328.3 ref_db_acc:3J0P strand_id:D description:40S ribosomal RNA fragment
+CGAGGAA
+>gnl|EMDB+PDB|5328.4 ref_db_acc:3J0P strand_id:G description:40S ribosomal RNA fragment
+GAACCUGCGGCUUAAUUUGACUCAACACGGG
+>gnl|EMDB+PDB|5328.5 ref_db_acc:3J0P strand_id:G description:40S ribosomal RNA fragment
+GCACGCGCGUUAC
+>gnl|EMDB+PDB|5328.6 ref_db_acc:3J0P strand_id:F description:40S ribosomal RNA fragment
+GGUGGUGGUGCAUGGCCGUUC
+>gnl|EMDB+PDB|5328.7 ref_db_acc:3J0P strand_id:H description:40S ribosomal RNA fragment
+CACCGCCCGUCGCUUGUAGUAACGAAUGGUCUGGUGAACCUUCUGGACUGCGACAGCAAUGUUGCGGAAAAAUAAGUAAACCCUACCAUUUGGAACAACAAGAAGUCGUAA
+>gnl|EMDB+PDB|5328.11 ref_db_acc:3J0P strand_id:2 description:60S ribosomal RNA fragment
+GCCCAGUGCUCUGAAUGUCAAAGUGAAGAAAUUCAACCAAGCGCGGGUAAACGGCGGGAGUAACUAUGACUCUCUUAAGGUAGCCAAAUGCCUCGUCAUCUAAUUAGUGACG
+>gnl|EMDB+PDB|5328.12 ref_db_acc:3J0P strand_id:3 description:60S ribosomal RNA fragment
+GCCAGUGAAAUA
+>gnl|EMDB+PDB|5328.13 ref_db_acc:3J0P strand_id:7 description:60S ribosomal RNA fragment
+GCUUGUGGCAGUCAAGCGUUCAUAGCGACAUUGCUUUUUGAUUCUUCGAU
+>gnl|EMDB+PDB|5328.15 ref_db_acc:3J0P strand_id:Y description:tRNA
+GCCCGGAUAGCUCAGUCGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCCUUGGUUCGAUUCCGAGUCCGGGCACC
+>gnl|EMDB+PDB|5328.16 ref_db_acc:3J0P strand_id:Y description:mRNA fragment
+UUC
+>gnl|EMDB+PDB|5328.17 ref_db_acc:3J0P strand_id:W description:tRNA
+CGCGGGGUGGAGCAGCCUGGUAGCUCGUCGGGCUCAUAACCCGAAGGUCGUCGGUUCAAAUCCGGCCCCCGCAACCA
+>gnl|EMDB+PDB|5328.18 ref_db_acc:3J0P strand_id:W description:mRNA fragment
+AA
